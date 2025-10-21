@@ -1,3 +1,5 @@
+# ThaiFron-Minecraft
+**จัดทำเพื่อแก้ไขปัญหา font ในเกม Minecraft ไม่รองรับภาษาไทย**
 # Fron Thai 
 **เป็นฟอนต์ของ Font Family ขึ้นต้นด้วย FC**
 # Open source
